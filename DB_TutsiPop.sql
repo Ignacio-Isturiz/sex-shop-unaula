@@ -139,7 +139,7 @@ CREATE TABLE users (
 	full_name VARCHAR(50),
 	email VARCHAR(50),
 	password VARCHAR(50)
-)
+);
 
 	
 
